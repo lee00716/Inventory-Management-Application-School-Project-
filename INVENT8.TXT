@@ -1,0 +1,14 @@
+PART NUMBERPART NAME               VALUE
+1111111    screws robertson 10      1064200
+2222222    screws robertson 08       410000
+2222233    screws robertson 06       864200
+3333333    screws robertson 04       400000
+4444444    bolts dead 10             864200
+5555555    bolts dead 80                  0
+5555566    screws robertson 10       864200
+5555577    screws philips 08         410000
+5555588    screws philips 06         864200
+5555599    screws philips 04         410000
+6666666    bolts dead 20             864200
+7777777    bolts dead 30              10000
+VALUE    $7025200  READ    12  WRITTEN  12
